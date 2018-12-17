@@ -1,0 +1,4153 @@
+<?xml version="1.0" encoding="utf-8"?><InfoLinkDocument>
+    <AccessResponse>
+        <DocumentType>10</DocumentType>
+        <EntityID>13</EntityID>
+        <SubscriberID>9767886</SubscriberID>
+        <Version>1.0</Version>
+        <TimeStamp>2018-02-12T08:09:40.0456431+02:00</TimeStamp>
+        <Reference1 />
+        <Reference2 />
+        <Reference3 />
+        <Reference4 />
+        <Reference5 />
+    </AccessResponse>
+    <RunSheet>
+        <Reference>BOM-12358111</Reference>
+        <OriginEntity>13</OriginEntity>
+        <RunSheetDate>2018-11-23T11:34:00</RunSheetDate>
+        <CourierName>GRB GRAB A GRUB SERVICES PVT LTD - DUMMY</CourierName>
+        <RouteCode>BOM-3539</RouteCode>
+        <RouteName>ANWGRB - DMY04</RouteName>
+        <CourierID>46930</CourierID>
+        <TypeID>0</TypeID>
+        <BranchID>19984</BranchID>
+        <HAWB>
+            <HAWBID>507660785</HAWBID>
+            <HAWBNumber>43412610135</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>DEL</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OVL</ProductType>
+            <Services>CODS</Services>
+            <PickupDate>2018-10-04T21:25:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.17</HAWBWeight>
+            <ChargeableWeight>0.4438767</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>133</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>ImportedMimoMassagerAssortedColors</CommodityDescription>
+            <Services>CODS</Services>
+            <Remarks />
+            <BillingAccountNumber>50613955</BillingAccountNumber>
+            <ShipperNumber>50613955</ShipperNumber>
+            <ShipperReference>128228666</ShipperReference>
+            <ShipperName>raju bhai jari wala</ShipperName>
+            <SentBy>raju bhai jari wala</SentBy>
+            <ShipperAddress>cd  block shop no-81/a near by shiv mandir main market pitampura delhi</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>8178322497</ShipperTelephone>
+            <ShipperCity>NEW DELHI</ShipperCity>
+            <ShipperStateCode>DL</ShipperStateCode>
+            <ShipperZipCode>110034</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference>0.5</ConsigneeReference>
+            <ConsigneeName>Arif ansari</ConsigneeName>
+            <AttentionOf>Arif ansari</AttentionOf>
+            <ConsigneeAddress>238 partkar compound near mubarak masjid, gill berthill road. andheri (W)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>918898789151</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400088</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>2</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>&lt;Charges&gt;&lt;Charge&gt;&lt;CollectionType&gt;COD&lt;/CollectionType&gt;&lt;Amount&gt;133&lt;/Amount&gt;&lt;Currency&gt;INR&lt;/Currency&gt;&lt;CollectionMode&gt;Cash&lt;/CollectionMode&gt;&lt;PaymentInstruction/&gt;&lt;/Charge&gt;&lt;/Charges&gt;
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>2</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>133</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>cl@shopclues.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>RTH</OriginLocationCode>
+            <DestinationLocationCode>CMR</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>System</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-04T21:25:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>508766107</HAWBID>
+            <HAWBNumber>43440728402</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>DEL</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OVL</ProductType>
+            <Services>CODS</Services>
+            <PickupDate>2017-10-09T23:55:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>1.09</HAWBWeight>
+            <ChargeableWeight>1.165365</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>3</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>1500</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Felix - Buy Handy Stitching Machine +Travel Iron and Get Lint Remover FREE</CommodityDescription>
+            <Services>CODS</Services>
+            <Remarks />
+            <BillingAccountNumber />
+            <ShipperNumber />
+            <ShipperReference>4639</ShipperReference>
+            <ShipperName>Inhaus</ShipperName>
+            <SentBy>Inhaus</SentBy>
+            <ShipperAddress>WZ-68,Todapur</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>000000</ShipperTelephone>
+            <ShipperCity>NEW DELHI</ShipperCity>
+            <ShipperStateCode>DL</ShipperStateCode>
+            <ShipperZipCode>110012</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference>0.89,0.89</ConsigneeReference>
+            <ConsigneeName>AMREEN  KHAN</ConsigneeName>
+            <AttentionOf>AMREEN  KHAN</AttentionOf>
+            <ConsigneeAddress>GOVE DEVI  DONGRI,,ROOM NO-5,,KADAR RANGAWALA CHAWAL,,ANDHERI WEST,,NEAR BY NAVRANG THEATER  (9220923637) 0</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919220923637</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400014</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber>50616436</ThirdPartyNumber>
+            <ThirdPartyReference />
+            <ThirdPartyName>TV 18 HOME SHOPPING NETWORK LTD (OVL)</ThirdPartyName>
+            <ThirdPartyContact />
+            <ThirdPartyAddress>FILM CITY ,NOIDA</ThirdPartyAddress>
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone>911204070000</ThirdPartyTelephone>
+            <ThirdPartyCity>Noida</ThirdPartyCity>
+            <ThirdPartyStateCode>UP</ThirdPartyStateCode>
+            <ThirdPartyZipCode>201301</ThirdPartyZipCode>
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>2</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>&lt;Charges&gt;&lt;Charge&gt;&lt;CollectionType&gt;COD&lt;/CollectionType&gt;&lt;Amount&gt;1500&lt;/Amount&gt;&lt;Currency&gt;INR&lt;/Currency&gt;&lt;CollectionMode&gt;Cash&lt;/CollectionMode&gt;&lt;PaymentInstruction/&gt;&lt;/Charge&gt;&lt;/Charges&gt;
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>2</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>1500</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2>153489695</ShipperReference2>
+            <ShipperFax />
+            <ShipperEmail />
+            <ConsigneeReference2>34443757</ConsigneeReference2>
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity>DEL</ThirdPartyEntity>
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>MYP</OriginLocationCode>
+            <DestinationLocationCode>LPR</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>pareshp</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-09T20:26:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>508785703</HAWBID>
+            <HAWBNumber>860083001471</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>SHA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>PPX</ProductType>
+            <Services />
+            <PickupDate>2017-03-27T06:03:00</PickupDate>
+            <ReceivedAt>Ship</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>1.62</HAWBWeight>
+            <ChargeableWeight>1.62</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>p</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>10</CustomsAmount>
+            <CustomsCurrencyCode>USD</CustomsCurrencyCode>
+            <CommodityCountryCode>CN</CommodityCountryCode>
+            <CommodityDescription>SCARF</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>300553</BillingAccountNumber>
+            <ShipperNumber>300553</ShipperNumber>
+            <ShipperReference>860083001471</ShipperReference>
+            <ShipperName>Sinotrans air transportation developmnet co., ltd zhejia branch</ShipperName>
+            <SentBy>jiancheng xie</SentBy>
+            <ShipperAddress>JIANGDONG DISTRICT 99 BUILDINGS YIWU CHINAHANGZHOUZHEJIANG</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>8613735858784</ShipperTelephone>
+            <ShipperCity>HANGZHOU</ShipperCity>
+            <ShipperStateCode />
+            <ShipperZipCode>310000</ShipperZipCode>
+            <ShipperCountryCode>CN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>shafaq khan</ConsigneeName>
+            <AttentionOf>shafaq khan</AttentionOf>
+            <ConsigneeAddress>602 b wing, cheval class, opp andheri sports complex, j.p road, andheri west.  mumbai, Maharashtra, India400058India</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919619220793</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>&lt;Charges&gt;&lt;Charge&gt;&lt;CollectionType&gt;Custom&lt;/CollectionType&gt;&lt;Amount&gt;450&lt;/Amount&gt;&lt;Currency&gt;INR&lt;/Currency&gt;&lt;CollectionMode&gt;CASH&lt;/CollectionMode&gt;&lt;PaymentInstruction&gt;Cash&lt;/PaymentInstruction&gt;&lt;/Charge&gt;&lt;/Charges&gt;
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode />
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>xiejc@sinoair.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>EXP</HAWBProductGroup>
+            <OriginLocationCode />
+            <DestinationLocationCode />
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>BenZ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-10T06:03:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>508785709</HAWBID>
+            <HAWBNumber>860083341096</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>SHA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>PPX</ProductType>
+            <Services />
+            <PickupDate>2017-10-10T06:03:00</PickupDate>
+            <ReceivedAt>Ship</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.78</HAWBWeight>
+            <ChargeableWeight>0.78</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>p</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>1.5</CustomsAmount>
+            <CustomsCurrencyCode>USD</CustomsCurrencyCode>
+            <CommodityCountryCode>CN</CommodityCountryCode>
+            <CommodityDescription>HANGER</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>300553</BillingAccountNumber>
+            <ShipperNumber>300553</ShipperNumber>
+            <ShipperReference>860083341096</ShipperReference>
+            <ShipperName>Sinotrans air transportation developmnet co., ltd zhejia branch</ShipperName>
+            <SentBy>jiancheng xie</SentBy>
+            <ShipperAddress>6-601 CHOUZHOU NORTH RD YIWUHANGZHOUZHEJIANG</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>8613735858784</ShipperTelephone>
+            <ShipperCity>HANGZHOU</ShipperCity>
+            <ShipperStateCode />
+            <ShipperZipCode>310000</ShipperZipCode>
+            <ShipperCountryCode>CN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>JAINII TREXIM PVT LTD</ConsigneeName>
+            <AttentionOf>MR KAMLESH</AttentionOf>
+            <ConsigneeAddress>A-204 PARSION CO.OPERATIVE HOUSING SOCIETY LTD V.P ROAD OFF S.V ROAD ANDHERI WEST MUMBAI INDIA400058India</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>912226207500</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode />
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>xiejc@sinoair.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>EXP</HAWBProductGroup>
+            <OriginLocationCode />
+            <DestinationLocationCode />
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>BenZ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-10T06:04:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>508816969</HAWBID>
+            <HAWBNumber>31436249773</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>DXB</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>PPX</ProductType>
+            <Services />
+            <PickupDate>2017-10-10T20:27:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.11</HAWBWeight>
+            <ChargeableWeight>0.11</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>5</CustomsAmount>
+            <CustomsCurrencyCode>USD</CustomsCurrencyCode>
+            <CommodityCountryCode>AE</CommodityCountryCode>
+            <CommodityDescription>Ladies Blouse</CommodityDescription>
+            <Services />
+            <Remarks>XRAYED</Remarks>
+            <BillingAccountNumber>40175</BillingAccountNumber>
+            <ShipperNumber>40175</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>Alpen Capital</ShipperName>
+            <SentBy>Sharmin Karanjia</SentBy>
+            <ShipperAddress>Level 4, Gate Precinct Bldg. 5, DIFC</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>97143634300</ShipperTelephone>
+            <ShipperCity>Dubai</ShipperCity>
+            <ShipperStateCode>  </ShipperStateCode>
+            <ShipperZipCode />
+            <ShipperCountryCode>AE</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Dilnaz Karbhary</ConsigneeName>
+            <AttentionOf>Dilnaz Karbhary</AttentionOf>
+            <ConsigneeAddress>Karbhary Couture, 120 Andheri Universal Industrial, Premiss Coop Soc Ltd, Next to Azad nagar metro station, Diagonally opp Andheri Sports Complex, JP Road,Andheri(West)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919820029594</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>XRAYED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>17</SourceID>
+            <HAWBRemarks>XRAYED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode />
+            <PaymentOption>ACCT</PaymentOption>
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>s.karanjia@alpencapital.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail>s.karanjia@alpencapital.com</ConsigneeEmail>
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>EXP</HAWBProductGroup>
+            <OriginLocationCode />
+            <DestinationLocationCode />
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>MohammedU</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-10T21:17:00</HAWBAlertedDate>
+            <CollectionReference>J10906C</CollectionReference>
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509003544</HAWBID>
+            <HAWBNumber>43410733973</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>CCU</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDA</ProductType>
+            <Services>CODS</Services>
+            <PickupDate>2017-10-10T00:00:00</PickupDate>
+            <ReceivedAt>SHIP</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.88</HAWBWeight>
+            <ChargeableWeight>1.46625</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>3</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode />
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Camro Sports Running Shoes For Men - ( Product Code CAMRO-WHITE-BLACK1 ) 7</CommodityDescription>
+            <Services>CODS</Services>
+            <Remarks>AS PER DATA</Remarks>
+            <BillingAccountNumber>0000</BillingAccountNumber>
+            <ShipperNumber>0000</ShipperNumber>
+            <ShipperReference>14669298</ShipperReference>
+            <ShipperName>Futureshop</ShipperName>
+            <SentBy>Futureshop</SentBy>
+            <ShipperAddress>5A,Vidya Sagar sarani, Silpara SBI Jems long sarani(borobagan),Kolkata - 700063,West Bengal,India</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>No: 09903798358,099037983</ShipperTelephone>
+            <ShipperCity>Kolkata</ShipperCity>
+            <ShipperStateCode>WB</ShipperStateCode>
+            <ShipperZipCode>700013</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference>0.5</ConsigneeReference>
+            <ConsigneeName>Satish Kumar</ConsigneeName>
+            <AttentionOf>Satish Kumar</AttentionOf>
+            <ConsigneeAddress>Apsara Graphics 81-C,Gilbert Hill, Nr.Bhavans College, Opp Ila Darshan Andheri (W), Mumbai - 400058, Nr Bhavans College</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>918652475487</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber>BOM6662339</ThirdPartyNumber>
+            <ThirdPartyReference />
+            <ThirdPartyName>REDIFF.COM INDIA LTD</ThirdPartyName>
+            <ThirdPartyContact />
+            <ThirdPartyAddress>MAHIM</ThirdPartyAddress>
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone>911111110257</ThirdPartyTelephone>
+            <ThirdPartyCity>Mumbai</ThirdPartyCity>
+            <ThirdPartyStateCode>MH</ThirdPartyStateCode>
+            <ThirdPartyZipCode>400016</ThirdPartyZipCode>
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>2</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>&lt;Charges&gt;&lt;Charge&gt;&lt;CollectionType&gt;COD&lt;/CollectionType&gt;&lt;Amount&gt;578&lt;/Amount&gt;&lt;Currency&gt;INR&lt;/Currency&gt;&lt;CollectionMode&gt;Cash&lt;/CollectionMode&gt;&lt;PaymentInstruction/&gt;&lt;/Charge&gt;&lt;/Charges&gt;
+            </MoneyCollection>
+            <Comments>AS PER DATA</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>AS PER DATA</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>578</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2>25898066</ShipperReference2>
+            <ShipperFax />
+            <ShipperEmail />
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity>BOM</ThirdPartyEntity>
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>CTY</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>SoumenD</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-10T17:32:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509021387</HAWBID>
+            <HAWBNumber>43376275132</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BLR</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDA</ProductType>
+            <Services>CODS</Services>
+            <PickupDate>2017-10-10T00:00:00</PickupDate>
+            <ReceivedAt>BLR </ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.7</HAWBWeight>
+            <ChargeableWeight>0.7</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>3</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>1. Typographic Print T-shirt ?2. Printed Crew-Neck T-shirt ?3. Printed Crew-Neck T-shirt</CommodityDescription>
+            <Services>CODS</Services>
+            <Remarks />
+            <BillingAccountNumber>....</BillingAccountNumber>
+            <ShipperNumber>....</ShipperNumber>
+            <ShipperReference>FL35128429</ShipperReference>
+            <ShipperName>AJIO</ShipperName>
+            <SentBy>AJIO</SentBy>
+            <ShipperAddress>Survey No. 54/1 - Nandihalli village 55th km stone NH-4 Tumkur Road - Oordigree Hobli Taluka</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>11111111111</ShipperTelephone>
+            <ShipperCity>Tumkur</ShipperCity>
+            <ShipperStateCode>KA</ShipperStateCode>
+            <ShipperZipCode>572101</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference>0.7</ConsigneeReference>
+            <ConsigneeName>Jimit Mehta</ConsigneeName>
+            <AttentionOf>Jimit Mehta</AttentionOf>
+            <ConsigneeAddress>, 502-Janaran Apartements,, Dadabhai Road, off JP road, Bhavans College , Opp PWD offi, Andheri West, ,</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919769278871</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber>70001695</ThirdPartyNumber>
+            <ThirdPartyReference />
+            <ThirdPartyName>AJIO</ThirdPartyName>
+            <ThirdPartyContact />
+            <ThirdPartyAddress>Oordigree Hobli  Taluka &amp; District Tumkur</ThirdPartyAddress>
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone>918046530103</ThirdPartyTelephone>
+            <ThirdPartyCity>Tumkur</ThirdPartyCity>
+            <ThirdPartyStateCode>KA</ThirdPartyStateCode>
+            <ThirdPartyZipCode>572101</ThirdPartyZipCode>
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>2</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>&lt;Charges&gt;&lt;Charge&gt;&lt;CollectionType&gt;COD&lt;/CollectionType&gt;&lt;Amount&gt;797&lt;/Amount&gt;&lt;Currency&gt;INR&lt;/Currency&gt;&lt;CollectionMode&gt;Cash&lt;/CollectionMode&gt;&lt;PaymentInstruction/&gt;&lt;/Charge&gt;&lt;/Charges&gt;
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>797</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2>1026810260</ShipperReference2>
+            <ShipperFax />
+            <ShipperEmail />
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity>BLR</ThirdPartyEntity>
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>TKR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Shrikanth</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-10T18:38:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509049943</HAWBID>
+            <HAWBNumber>43311042806</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-10T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>3</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>DOCUMENT</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>0000</BillingAccountNumber>
+            <ShipperNumber>0000</ShipperNumber>
+            <ShipperReference>HBW091017631209</ShipperReference>
+            <ShipperName>HDFC BANK</ShipperName>
+            <SentBy>HDFC BANK</SentBy>
+            <ShipperAddress>MANEK SMRUTI,TPS II,NEHRU ROAD,VILE PARLE - EASTMUMBAI400057</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone />
+            <ShipperCity>NEW BOMBAY</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400706</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>PREYASI</ConsigneeName>
+            <AttentionOf>PREYASI</AttentionOf>
+            <ConsigneeAddress>C/O PREYASIC-1SHREE ALANKAR CHS LTDANDHERI WESTS V ROADMUMBAI400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919819203534</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber>129879</ThirdPartyNumber>
+            <ThirdPartyReference />
+            <ThirdPartyName>HDFC BANK - CHEQUE BOOK MUMBAI</ThirdPartyName>
+            <ThirdPartyContact />
+            <ThirdPartyAddress>CHANDIVLI ANDHERI EAST</ThirdPartyAddress>
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone>912222251490</ThirdPartyTelephone>
+            <ThirdPartyCity>Mumbai</ThirdPartyCity>
+            <ThirdPartyStateCode>MH</ThirdPartyStateCode>
+            <ThirdPartyZipCode>400072</ThirdPartyZipCode>
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2>0227</ShipperReference2>
+            <ShipperFax />
+            <ShipperEmail />
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity>MAA</ThirdPartyEntity>
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VAS</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>DHIRAJ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-10T22:18:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509100022</HAWBID>
+            <HAWBNumber>43324320222</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BLR</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDA</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T05:08:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.5</HAWBWeight>
+            <ChargeableWeight>0.5</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>699</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>SKULT Dark Grey T-shirt</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>130298</BillingAccountNumber>
+            <ShipperNumber>130298</ShipperNumber>
+            <ShipperReference>102036149</ShipperReference>
+            <ShipperName>ABOF</ShipperName>
+            <SentBy>MunikumarMahesh</SentBy>
+            <ShipperAddress>Aditya birla online fashion pvt. Ltd.Krupa godowns, sy no 2/1 soukya road - Tirumalashetty halli villageAnugondanahalli hobli - Hoskote talukBangalore rural district</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>917026608729</ShipperTelephone>
+            <ShipperCity>Bangalore</ShipperCity>
+            <ShipperStateCode>KA</ShipperStateCode>
+            <ShipperZipCode>560067</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Aaqib</ConsigneeName>
+            <AttentionOf>AaqibBora</AttentionOf>
+            <ConsigneeAddress>302 , nirmala apartments , jp road , andheri (west) , near andheri sports complex</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919819913302</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-11T05:08:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;5:8&lt;/FromTime&gt;&lt;ToTime&gt;5:8&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>24</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode />
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2>AB5221918</ShipperReference2>
+            <ShipperFax />
+            <ShipperEmail>Munikumara.ha@abof.adityabirla.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail>aaqib_swizboy@yahoo.com</ConsigneeEmail>
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>WTF</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1>102036149</HAWBRef1>
+            <HAWBRef2>AB5221918</HAWBRef2>
+            <HAWBRef3 />
+            <HAWBAlertedBy>admin</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T07:08:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509119070</HAWBID>
+            <HAWBNumber>43376278750</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>TKR</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDA</ProductType>
+            <Services>CODS</Services>
+            <PickupDate>2017-10-11T08:45:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.22</HAWBWeight>
+            <ChargeableWeight>1.403607</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>3</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>250</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>T-shirt Bra with Criss-Cross Styling</CommodityDescription>
+            <Services>CODS</Services>
+            <Remarks />
+            <BillingAccountNumber />
+            <ShipperNumber />
+            <ShipperReference>00000000001026906079</ShipperReference>
+            <ShipperName>AJIO</ShipperName>
+            <SentBy>AJIO.com (Reliance Retail Ltd)</SentBy>
+            <ShipperAddress>Survey No. 54/1 - Nandihalli village 55th km stone NH-4 Tumkur Road - Oordigree Hobli Taluka</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>911234567890</ShipperTelephone>
+            <ShipperCity>Tumkur</ShipperCity>
+            <ShipperStateCode>KA</ShipperStateCode>
+            <ShipperZipCode>572101</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber>70001695</ConsigneeNumber>
+            <ConsigneeReference>219426251</ConsigneeReference>
+            <ConsigneeName>Payal  Jhaveri</ConsigneeName>
+            <AttentionOf>Payal  Jhaveri</AttentionOf>
+            <ConsigneeAddress>602, OmNiketan bld., V.P road, - Above B.M.C Bank, - Opp.Fidaibaug Bld</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919819542981</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber>70001695</ThirdPartyNumber>
+            <ThirdPartyReference>219426251</ThirdPartyReference>
+            <ThirdPartyName>RIL</ThirdPartyName>
+            <ThirdPartyContact />
+            <ThirdPartyAddress>Survey No. 54/1 - Nandihalli village 55th km stone NH-4 Tumkur Road - Oordigree Hobli Taluka</ThirdPartyAddress>
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone>911234567890</ThirdPartyTelephone>
+            <ThirdPartyCity>Tumkur</ThirdPartyCity>
+            <ThirdPartyStateCode>KA</ThirdPartyStateCode>
+            <ThirdPartyZipCode>572101</ThirdPartyZipCode>
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>2</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>&lt;Charges&gt;&lt;Charge&gt;&lt;CollectionType&gt;COD&lt;/CollectionType&gt;&lt;Amount&gt;250&lt;/Amount&gt;&lt;Currency&gt;INR&lt;/Currency&gt;&lt;CollectionMode&gt;Cash&lt;/CollectionMode&gt;&lt;PaymentInstruction/&gt;&lt;/Charge&gt;&lt;/Charges&gt;
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>24</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>250</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2>V027</ShipperReference2>
+            <ShipperFax />
+            <ShipperEmail>shipper@reliance.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail>p.j@hotmail.co.in</ConsigneeEmail>
+            <ThirdPartyEntity>BLR</ThirdPartyEntity>
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>TKR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>reliance.ecomm</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T08:45:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>4400</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509127870</HAWBID>
+            <HAWBNumber>43447151075</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Janco Trading Pvt. Ltd.</ConsigneeName>
+            <AttentionOf>Prakash Karani</AttentionOf>
+            <ConsigneeAddress>BEST Commercial Complex, 4th Floor, A - Wing, Opposite Railway Station, Andheri (West)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919820764363</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T08:59:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509128267</HAWBID>
+            <HAWBNumber>43447166210</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Sujay Corp</ConsigneeName>
+            <AttentionOf>Nirav Mehta</AttentionOf>
+            <ConsigneeAddress>602, 6Th Floor, Mayfair Kumkum Building, S.V.Road, Andheri (West), Opp Sangeeta Hospital</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919967620663</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T08:59:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509129806</HAWBID>
+            <HAWBNumber>43447151322</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Jenburkt Pharmaceuticals Ltd</ConsigneeName>
+            <AttentionOf>Ramesh Chandra J Vora</AttentionOf>
+            <ConsigneeAddress>93, Nirmala Apartments, Jayprakash Road, Andheri West.</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919370460916</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T09:00:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509134046</HAWBID>
+            <HAWBNumber>43447158204</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Raj Telesystem</ConsigneeName>
+            <AttentionOf>Vikram</AttentionOf>
+            <ConsigneeAddress>33, Ground Floor, Mona Shopping Centre, J. P. Road, Near Navrang Cinema, Andheri (West)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919322034573</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T09:05:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509135531</HAWBID>
+            <HAWBNumber>43447161030</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Sagar City</ConsigneeName>
+            <AttentionOf>Sameer Shaikh</AttentionOf>
+            <ConsigneeAddress>V. P. Road, Off S. V. Road, Next To Fidai Baug, Andheri West</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>912226284091</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T09:07:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509135749</HAWBID>
+            <HAWBNumber>43447165263</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Sony Mony Electronics LTD</ConsigneeName>
+            <AttentionOf>Ramesh Shah</AttentionOf>
+            <ConsigneeAddress>Shop No. 3/4, Shreeji Apartment,  Opposite Andheri Sports Complex, Near Rajkumar Hotel, J. P. Marg, Versova Road, Andheri (west)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>912226204324</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T09:07:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509136030</HAWBID>
+            <HAWBNumber>43447158521</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Rameshchandra biscuitwala Arhcitect</ConsigneeName>
+            <AttentionOf>Rameshchandra biscuitwala</AttentionOf>
+            <ConsigneeAddress>A / 38, Laram Centre, 24, S. V. Road, Andheri (West)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919223401395</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T09:08:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509141722</HAWBID>
+            <HAWBNumber>43447135384</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Adit It &amp; Security Solutions</ConsigneeName>
+            <AttentionOf>Tarun Gandhi</AttentionOf>
+            <ConsigneeAddress>7 Umed Villa, Vishwabharari Socity, Near Shriram High School, Off Juhu Lane, Andheri (West)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919820217703</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T08:58:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509144124</HAWBID>
+            <HAWBNumber>43447145722</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Exfaq Systems Pvt Ltd</ConsigneeName>
+            <AttentionOf>Gaurav Khear</AttentionOf>
+            <ConsigneeAddress>B 2, 1st Floor, Jeevan Sangam, Above S.B.I Bank, Near Bhavans Collage, Off J.P Road, Andheri West</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919820320340</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T08:58:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509144639</HAWBID>
+            <HAWBNumber>43447135826</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>BLK</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Diwali Grtg</CommodityDescription>
+            <Services />
+            <Remarks>PROCESSED</Remarks>
+            <BillingAccountNumber>117130</BillingAccountNumber>
+            <ShipperNumber>117130</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PRAMA HIKVISION INDIA PVT LTD (Diwali movement )</ShipperName>
+            <SentBy>PRAMA HIKVISION INDIA PVT. LTD.</SentBy>
+            <ShipperAddress>Real Industrial Estate,Building No 5, Gala No 17/18,Sativali Road, Valiv Phata,Valiv Vasai (E) Dist Thane</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>02503203889/ 3219771</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>401208</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Agarwal &amp; Associates</ConsigneeName>
+            <AttentionOf>Ramnayan Ramdeo Nigam</AttentionOf>
+            <ConsigneeAddress>105, Mahesh Villa, Gilbert Hill Road, Near Bhavans College, Andheri West</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919821022657</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment&gt;&lt;Type&gt;D&lt;/Type&gt;&lt;Date&gt;2017-10-19T00:00:00&lt;/Date&gt;&lt;PredefinedTime/&gt;&lt;FromTime&gt;0:0&lt;/FromTime&gt;&lt;ToTime&gt;0:0&lt;/ToTime&gt;&lt;Location/&gt;&lt;/Appointment&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>PROCESSED</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks>PROCESSED</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>accounts@pramaonline.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>VRR</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>PareshP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T08:59:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509207860</HAWBID>
+            <HAWBNumber>43227818082</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>MAA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.22</HAWBWeight>
+            <ChargeableWeight>0.22</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>WELCOME KIT</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>60001059</BillingAccountNumber>
+            <ShipperNumber>60001059</ShipperNumber>
+            <ShipperReference>WPWR1010171112060</ShipperReference>
+            <ShipperName>HDFC Bank Ltd</ShipperName>
+            <SentBy>HDFC Bank Ltd</SentBy>
+            <ShipperAddress>NPD-7, SIDCO Indl Estate</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>11111</ShipperTelephone>
+            <ShipperCity>Chennai</ShipperCity>
+            <ShipperStateCode>TN</ShipperStateCode>
+            <ShipperZipCode>600032</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>SHIV TRANSPORT</ConsigneeName>
+            <AttentionOf>SHIV TRANSPORT</AttentionOf>
+            <ConsigneeAddress>C/O SHIV TRANSPORT,115 UNIVERSAL IND ESTATE VERSOVA RD,ANDHERI WEST MUMBAI</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>918898120206</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>visveeeeswaran.ramuhy@hdfcbank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>GDY</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Yesuraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T20:16:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509208286</HAWBID>
+            <HAWBNumber>43227814534</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>MAA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDS</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.22</HAWBWeight>
+            <ChargeableWeight>0.22</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>WELCOME KIT</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>60001059</BillingAccountNumber>
+            <ShipperNumber>60001059</ShipperNumber>
+            <ShipperReference>WKWR1010171105864</ShipperReference>
+            <ShipperName>HDFC Bank Ltd</ShipperName>
+            <SentBy>HDFC Bank Ltd</SentBy>
+            <ShipperAddress>NPD-7, SIDCO Indl Estate</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>11111</ShipperTelephone>
+            <ShipperCity>Chennai</ShipperCity>
+            <ShipperStateCode>TN</ShipperStateCode>
+            <ShipperZipCode>600032</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>SANJANA NARAYAN</ConsigneeName>
+            <AttentionOf>SANJANA NARAYAN</AttentionOf>
+            <ConsigneeAddress>B 4/1 SHREE RAM NAGAR SV ROAD,NEAR SHREE RAM HIGHSCHOOL,ANDHERI WEST</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919833791990</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>visveeeeswaran.ramuhy@hdfcbank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>GDY</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Yesuraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T20:17:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509208288</HAWBID>
+            <HAWBNumber>43227814571</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>MAA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.22</HAWBWeight>
+            <ChargeableWeight>0.22</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>WELCOME KIT</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>60001059</BillingAccountNumber>
+            <ShipperNumber>60001059</ShipperNumber>
+            <ShipperReference>WPWR1010171106005</ShipperReference>
+            <ShipperName>HDFC Bank Ltd</ShipperName>
+            <SentBy>HDFC Bank Ltd</SentBy>
+            <ShipperAddress>NPD-7, SIDCO Indl Estate</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>11111</ShipperTelephone>
+            <ShipperCity>Chennai</ShipperCity>
+            <ShipperStateCode>TN</ShipperStateCode>
+            <ShipperZipCode>600032</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>SANJANA NARAYAN</ConsigneeName>
+            <AttentionOf>SANJANA NARAYAN</AttentionOf>
+            <ConsigneeAddress>B 4/1 SHREE RAM NAGAR SV ROAD,NEAR SHREE RAM HIGHSCHOOL,ANDHERI WEST</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919833791990</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>visveeeeswaran.ramuhy@hdfcbank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>GDY</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Yesuraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T20:17:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509213923</HAWBID>
+            <HAWBNumber>31436394102</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>DXB</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>PLX</ProductType>
+            <Services>SHIELD</Services>
+            <PickupDate>2017-10-11T19:15:00</PickupDate>
+            <ReceivedAt>DLVD</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.13</HAWBWeight>
+            <ChargeableWeight>0.13</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode />
+            <CommodityCountryCode>AE</CommodityCountryCode>
+            <CommodityDescription>Orignal Documents</CommodityDescription>
+            <Services>SHIELD</Services>
+            <Remarks />
+            <BillingAccountNumber>777</BillingAccountNumber>
+            <ShipperNumber>777</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>Dharmesh Vekariya</ShipperName>
+            <SentBy>Dharmesh Vekariya</SentBy>
+            <ShipperAddress>Dubai</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>971558214317</ShipperTelephone>
+            <ShipperCity>Deira</ShipperCity>
+            <ShipperStateCode>  </ShipperStateCode>
+            <ShipperZipCode />
+            <ShipperCountryCode>AE</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Rohini Shetty</ConsigneeName>
+            <AttentionOf>ESSKAY COMPUTER SERVICES PVT LTD</AttentionOf>
+            <ConsigneeAddress>Block 7 , rajesh Bldg 107, Jp Road.Opp Navarang Cinema</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>912226778340</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>25</SourceID>
+            <HAWBRemarks />
+            <CashValue>190</CashValue>
+            <CashCurrencyCode>AED</CashCurrencyCode>
+            <InsuranceValue>300</InsuranceValue>
+            <InsuranceCurrencyCode>USD</InsuranceCurrencyCode>
+            <CODValue>0</CODValue>
+            <CODCurrencyCode />
+            <PaymentOption>CASH</PaymentOption>
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>mohammad.alloush@aramex.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>EXP</HAWBProductGroup>
+            <OriginLocationCode />
+            <DestinationLocationCode />
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Samsul</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T17:59:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509240792</HAWBID>
+            <HAWBNumber>43336620460</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>AMD</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T17:51:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.6</HAWBWeight>
+            <ChargeableWeight>0.6</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>magazines</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>130054</BillingAccountNumber>
+            <ShipperNumber>130054</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>FIBRE2FASHION PVT LTD</ShipperName>
+            <SentBy>SANTOSH SADASIVAN</SentBy>
+            <ShipperAddress>BOPAL</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>917971888555</ShipperTelephone>
+            <ShipperCity>Ahmedabad</ShipperCity>
+            <ShipperStateCode>GJ</ShipperStateCode>
+            <ShipperZipCode>380058</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Shashank Mane</ConsigneeName>
+            <AttentionOf>Multimedia Informatics Pvt Ltd.,</AttentionOf>
+            <ConsigneeAddress>505, Akruti Arcade, J.P. Rd., Opp Wadia School Andheri (w)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>912266931374</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400053</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>1</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>santosh@fibre2fashion.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ARD</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Hardik</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T15:27:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509291416</HAWBID>
+            <HAWBNumber>42843948486</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115024</BillingAccountNumber>
+            <ShipperNumber>115024</ShipperNumber>
+            <ShipperReference>DPB8866465</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Debit Pin )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>0000</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>DERRICK ANGELSZ</ConsigneeName>
+            <AttentionOf>DERRICK ANGELSZ</AttentionOf>
+            <ConsigneeAddress>A-901 ATLANTIC SAGAR,CITY,V P ROAD,ANDHERI WEST, *MUMBAI MH 400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>917045651567</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>DHIRAJ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T21:57:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509291417</HAWBID>
+            <HAWBNumber>42843948490</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115024</BillingAccountNumber>
+            <ShipperNumber>115024</ShipperNumber>
+            <ShipperReference>DPB8866466</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Debit Pin )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>0000</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>ALEXANDRIA ANGELSZ</ConsigneeName>
+            <AttentionOf>ALEXANDRIA ANGELSZ</AttentionOf>
+            <ConsigneeAddress>A-901 ATLANTIC SAGAR,CITY,V P ROAD,ANDHERI WEST, *MUMBAI MH 400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>917045651567</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>DHIRAJ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T21:57:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509291516</HAWBID>
+            <HAWBNumber>42843947090</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115110</BillingAccountNumber>
+            <ShipperNumber>115110</ShipperNumber>
+            <ShipperReference>INB6478233</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Infinity Password )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>0000</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>SMEET ANIL  MEHTA</ConsigneeName>
+            <AttentionOf>SMEET ANIL  MEHTA</AttentionOf>
+            <ConsigneeAddress>404,CASPIAN BLDG,4 FLR,SAGAR CITY VP ROAD,ANDHERI WEST,OPP SV ROAD, MUMBAI400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919558026603</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>DHIRAJ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T21:57:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509291563</HAWBID>
+            <HAWBNumber>42843947543</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115110</BillingAccountNumber>
+            <ShipperNumber>115110</ShipperNumber>
+            <ShipperReference>INB6478750</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Infinity Password )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>0000</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>AMRUTA AJEET DESAI</ConsigneeName>
+            <AttentionOf>AMRUTA AJEET DESAI</AttentionOf>
+            <ConsigneeAddress>7,GULAB SMRUTI BLDG JAY,1ST FLR FLR,RANEWADI,PRAKASH RD PATHARE ,ANDHERI WEST, PRABHU MARRIAGE HALL COMPDMUMBAI400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919819370537</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>DHIRAJ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T21:57:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509291564</HAWBID>
+            <HAWBNumber>42843947554</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115110</BillingAccountNumber>
+            <ShipperNumber>115110</ShipperNumber>
+            <ShipperReference>INB6478751</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Infinity Password )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>0000</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>SARLA CHANDRAKANT RAWAL JT2</ConsigneeName>
+            <AttentionOf>SARLA CHANDRAKANT RAWAL JT2</AttentionOf>
+            <ConsigneeAddress>706,MAHESH VILLA,GILBERT HILL ROAD,ANDHERI WEST,NEAR BHAVANS COLLEGE, MUMBAI400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>918850933396</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>DHIRAJ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T21:57:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509291566</HAWBID>
+            <HAWBNumber>42843947565</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115110</BillingAccountNumber>
+            <ShipperNumber>115110</ShipperNumber>
+            <ShipperReference>INB6478752</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Infinity Password )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>0000</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>PUNDLIK PATIL</ConsigneeName>
+            <AttentionOf>PUNDLIK PATIL</AttentionOf>
+            <ConsigneeAddress>1,MORE CHAWL,J P RD,B/H PARIVAR BLDG,ANDHERI WEST, MUMBAI400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919768318855</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>DHIRAJ</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T21:57:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509314945</HAWBID>
+            <HAWBNumber>43146793362</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-11T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>BOM6666128</BillingAccountNumber>
+            <ShipperNumber>BOM6666128</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>Om Courier Services</ShipperName>
+            <SentBy>Om Courier Services</SentBy>
+            <ShipperAddress>LAZRUS ROAD, CHARAI NAKA, NEAR ALMEIDA SIGNAL,THANE,</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>912225385307</ShipperTelephone>
+            <ShipperCity>Thane</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400601</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>B.R.INTERIORS</ConsigneeName>
+            <AttentionOf>B.R.INTERIORS</AttentionOf>
+            <ConsigneeAddress>....................</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>00000000000000</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400059</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>7</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode>USD</InsuranceCurrencyCode>
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>opsomcourier@gmail.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>THW</OriginLocationCode>
+            <DestinationLocationCode>ADH</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>dhiraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T22:33:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509343825</HAWBID>
+            <HAWBNumber>42174211715</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>SRT</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDA</ProductType>
+            <Services>CODS</Services>
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.3</HAWBWeight>
+            <ChargeableWeight>0.3</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>1007</CommodityDescription>
+            <Services>CODS</Services>
+            <Remarks />
+            <BillingAccountNumber>SRT10228</BillingAccountNumber>
+            <ShipperNumber>SRT10228</ShipperNumber>
+            <ShipperReference>100002748</ShipperReference>
+            <ShipperName>ASPIRE FASHION</ShipperName>
+            <SentBy>AKASH SHANKAR</SentBy>
+            <ShipperAddress>43,VISHWAKARMA,KATARGAM,SURAT-395004</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>917048291002</ShipperTelephone>
+            <ShipperCity>Surat</ShipperCity>
+            <ShipperStateCode>GJ</ShipperStateCode>
+            <ShipperZipCode>395010</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>hanif  mohammed</ConsigneeName>
+            <AttentionOf>hanif  mohammed</AttentionOf>
+            <ConsigneeAddress>room no 180. gillbert hill road, near sagar city andheri westmumbai, maharashtra, 400058</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919004958390</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>2</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>&lt;Charges&gt;&lt;Charge&gt;&lt;CollectionType&gt;COD&lt;/CollectionType&gt;&lt;Amount&gt;799&lt;/Amount&gt;&lt;Currency&gt;INR&lt;/Currency&gt;&lt;CollectionMode&gt;Cash&lt;/CollectionMode&gt;&lt;PaymentInstruction/&gt;&lt;/Charge&gt;&lt;/Charges&gt;
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>799</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2>100002748</ShipperReference2>
+            <ShipperFax />
+            <ShipperEmail>sales.aspirefashion@gmail.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>SRT</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>SALMANP</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-11T22:25:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509354813</HAWBID>
+            <HAWBNumber>43352447364</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDA</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T04:25:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>1.5</HAWBWeight>
+            <ChargeableWeight>2.57936</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>   </CollectCurrencyCode>
+            <CustomsAmount>169</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Pet Products Item - New (count 1)</CommodityDescription>
+            <Services />
+            <Remarks>AMX_ZONE_101</Remarks>
+            <BillingAccountNumber>36671558</BillingAccountNumber>
+            <ShipperNumber>36671558</ShipperNumber>
+            <ShipperReference>D6Sp1648N</ShipperReference>
+            <ShipperName>BOM9</ShipperName>
+            <SentBy>BOM9</SentBy>
+            <ShipperAddress>Amazon Transporation Services Private Limited Jai Bhagwan realities pvt ltd., Building A-4, warehousing premises,Bearing no.1-6, at green space, Mumbai-Nashik Highway, Village Vahuli, Post Padgha</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>919849124351</ShipperTelephone>
+            <ShipperCity>Bhiwandi</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>421101</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference>406-3393415-8907540</ConsigneeReference>
+            <ConsigneeName>Rumki</ConsigneeName>
+            <AttentionOf>Rumki</AttentionOf>
+            <ConsigneeAddress>1403 B Indian ocean Sagar city V.P. Road, Andheri (w)</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>918108124031</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>AMX_ZONE_101</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>2</SourceID>
+            <HAWBRemarks>AMX_ZONE_101</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode />
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>kcchaita@amazon.com</ShipperEmail>
+            <ConsigneeReference2>2017-10-14T00:00:00</ConsigneeReference2>
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>BNI</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1>28.4,23.2,8.4</HAWBRef1>
+            <HAWBRef2>1.5,1.3</HAWBRef2>
+            <HAWBRef3 />
+            <HAWBAlertedBy>IUSR</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T00:56:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509397993</HAWBID>
+            <HAWBNumber>43292225620</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>CDA</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T12:29:00</PickupDate>
+            <ReceivedAt />
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.5</HAWBWeight>
+            <ChargeableWeight>0.5</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode />
+            <CustomsAmount>173.62</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Grocery Item - New (count 1)</CommodityDescription>
+            <Services />
+            <Remarks>AMX_ZONE_101</Remarks>
+            <BillingAccountNumber>36671558</BillingAccountNumber>
+            <ShipperNumber>36671558</ShipperNumber>
+            <ShipperReference>DXVvM64YN</ShipperReference>
+            <ShipperName>BOM9</ShipperName>
+            <SentBy>BOM9</SentBy>
+            <ShipperAddress>Amazon Transporation Services Private Limited Jai Bhagwan realities pvt ltd., Building A-4, warehousing premises,Bearing no.1-6, at green space, Mumbai-Nashik Highway, Village Vahuli, Post Padgha</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>919849124351</ShipperTelephone>
+            <ShipperCity>Bhiwandi</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>421101</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference>405-6280386-6480310</ConsigneeReference>
+            <ConsigneeName>Ancy moncy</ConsigneeName>
+            <AttentionOf>Ancy moncy</AttentionOf>
+            <ConsigneeAddress>Aman Hill Hostel, Reliance Building, Gaon Devi, Cama Road ( teen nal ), Andheri West</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>918113890610</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments>AMX_ZONE_101</Comments>
+            <Sequence>0</Sequence>
+            <SourceID>2</SourceID>
+            <HAWBRemarks>AMX_ZONE_101</HAWBRemarks>
+            <CashValue>0</CashValue>
+            <CashCurrencyCode />
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode />
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>kcchaita@amazon.com</ShipperEmail>
+            <ConsigneeReference2>2017-10-14T00:00:00</ConsigneeReference2>
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>BNI</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1>21.6,15.1,7.1</HAWBRef1>
+            <HAWBRef2>0.5,0.24</HAWBRef2>
+            <HAWBRef3 />
+            <HAWBAlertedBy>IUSR</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T09:00:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509488668</HAWBID>
+            <HAWBNumber>43227821976</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>MAA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.22</HAWBWeight>
+            <ChargeableWeight>0.22</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>WELCOME KIT</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>60001059</BillingAccountNumber>
+            <ShipperNumber>60001059</ShipperNumber>
+            <ShipperReference>WPWR1110171702997</ShipperReference>
+            <ShipperName>HDFC Bank Ltd</ShipperName>
+            <SentBy>HDFC Bank Ltd</SentBy>
+            <ShipperAddress>NPD-7, SIDCO Indl Estate</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>11111</ShipperTelephone>
+            <ShipperCity>Chennai</ShipperCity>
+            <ShipperStateCode>TN</ShipperStateCode>
+            <ShipperZipCode>600032</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>AKSHAY MANISH BHUWANIA</ConsigneeName>
+            <AttentionOf>AKSHAY MANISH BHUWANIA</AttentionOf>
+            <ConsigneeAddress>BHUWANIA NIWAS,6 BHARDAWADI,ANDHERI WEST</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919820991945</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>visveeeeswaran.ramuhy@hdfcbank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>GDY</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Yesuraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T14:34:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509488710</HAWBID>
+            <HAWBNumber>43227821965</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>MAA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.22</HAWBWeight>
+            <ChargeableWeight>0.22</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>WELCOME KIT</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>60001059</BillingAccountNumber>
+            <ShipperNumber>60001059</ShipperNumber>
+            <ShipperReference>WPWR1110171702987</ShipperReference>
+            <ShipperName>HDFC Bank Ltd</ShipperName>
+            <SentBy>HDFC Bank Ltd</SentBy>
+            <ShipperAddress>NPD-7, SIDCO Indl Estate</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>11111</ShipperTelephone>
+            <ShipperCity>Chennai</ShipperCity>
+            <ShipperStateCode>TN</ShipperStateCode>
+            <ShipperZipCode>600032</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>MOHAMMED SOHEL MD JAFAR AHMED SHAIKH</ConsigneeName>
+            <AttentionOf>MOHAMMED SOHEL MD JAFAR AHMED SHAIKH</AttentionOf>
+            <ConsigneeAddress>503 A2 BLDG MILAP CHS 5TH FLOOR,GILLBERT HILL ROAD MILAP CO-OP,HOUSING SOCIETY JUHU LANE ANDHERI(W</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919594984969</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>visveeeeswaran.ramuhy@hdfcbank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>GDY</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Yesuraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T14:34:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509489031</HAWBID>
+            <HAWBNumber>43227820591</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>MAA</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.22</HAWBWeight>
+            <ChargeableWeight>0.22</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>WELCOME KIT</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>60001059</BillingAccountNumber>
+            <ShipperNumber>60001059</ShipperNumber>
+            <ShipperReference>WPWR1110171701442</ShipperReference>
+            <ShipperName>HDFC Bank Ltd</ShipperName>
+            <SentBy>HDFC Bank Ltd</SentBy>
+            <ShipperAddress>NPD-7, SIDCO Indl Estate</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>11111</ShipperTelephone>
+            <ShipperCity>Chennai</ShipperCity>
+            <ShipperStateCode>TN</ShipperStateCode>
+            <ShipperZipCode>600032</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>MOHAMMED HOZEFA RANGWALA U/G BATUL</ConsigneeName>
+            <AttentionOf>MOHAMMED HOZEFA RANGWALA U/G BATUL</AttentionOf>
+            <ConsigneeAddress>FLAT NO 903 MINARETTE APARTMENTS,DADABHAI X ROAD NO 2,ANDHERI WEST</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919821280933</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>visveeeeswaran.ramuhy@hdfcbank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>GDY</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>Yesuraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T14:34:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509541844</HAWBID>
+            <HAWBNumber>43146915501</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>AMD</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>116292</BillingAccountNumber>
+            <ShipperNumber>116292</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PAVAN COURIER SERVICE</ShipperName>
+            <SentBy>PAVAN COURIER SERVICE</SentBy>
+            <ShipperAddress>6 PANCHNATH COMMERCIAL COMPLEX,,</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>912812448087</ShipperTelephone>
+            <ShipperCity>Rajkot</ShipperCity>
+            <ShipperStateCode>GJ</ShipperStateCode>
+            <ShipperZipCode>360001</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>Y.B.VAKHARIA</ConsigneeName>
+            <AttentionOf>Y.B.VAKHARIA</AttentionOf>
+            <ConsigneeAddress>....................</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>00000000000</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400059</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>7</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode>USD</InsuranceCurrencyCode>
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>pavancourierrkt@gmail.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>RAJ</OriginLocationCode>
+            <DestinationLocationCode>ADH</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>dhiraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T19:35:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509541848</HAWBID>
+            <HAWBNumber>43146915523</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>AMD</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>Documents</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>116292</BillingAccountNumber>
+            <ShipperNumber>116292</ShipperNumber>
+            <ShipperReference />
+            <ShipperName>PAVAN COURIER SERVICE</ShipperName>
+            <SentBy>PAVAN COURIER SERVICE</SentBy>
+            <ShipperAddress>6 PANCHNATH COMMERCIAL COMPLEX,,</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>912812448087</ShipperTelephone>
+            <ShipperCity>Rajkot</ShipperCity>
+            <ShipperStateCode>GJ</ShipperStateCode>
+            <ShipperZipCode>360001</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>ASHOK M.SHAH</ConsigneeName>
+            <AttentionOf>ASHOK M.SHAH</AttentionOf>
+            <ConsigneeAddress>....................</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>00000000000</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400059</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode>IN</ThirdPartyCountryCode>
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>7</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode>USD</InsuranceCurrencyCode>
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>pavancourierrkt@gmail.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>RAJ</OriginLocationCode>
+            <DestinationLocationCode>ADH</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>dhiraj</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T19:35:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509596376</HAWBID>
+            <HAWBNumber>42843949665</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>DOCUMENTS</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115024</BillingAccountNumber>
+            <ShipperNumber>115024</ShipperNumber>
+            <ShipperReference>DPB8859985</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Debit Pin )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>912261375500</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>MOHAN PRASAD SINGH</ConsigneeName>
+            <AttentionOf>MOHAN PRASAD SINGH</AttentionOf>
+            <ConsigneeAddress>103 SHREE RAMWADI J P,ROAD,OPP VADIYA HIGH,SCHOOL ANDHERI,(W), *</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919769482473</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>ANKITS</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T23:55:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509596377</HAWBID>
+            <HAWBNumber>42843949676</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>DOCUMENTS</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115024</BillingAccountNumber>
+            <ShipperNumber>115024</ShipperNumber>
+            <ShipperReference>DPB8859986</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Debit Pin )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>912261375500</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>DHARMESH DATTANI</ConsigneeName>
+            <AttentionOf>DHARMESH DATTANI</AttentionOf>
+            <ConsigneeAddress>103 SHREE RAMWADI J P,ROAD,OPP VADIYA HIGH,SCHOOL ANDHERI,(W), *</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919769482473</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>ANKITS</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T23:55:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+        <HAWB>
+            <HAWBID>509596378</HAWBID>
+            <HAWBNumber>42843949680</HAWBNumber>
+            <ForeignHAWBNumber />
+            <HAWBOriginEntity>BOM</HAWBOriginEntity>
+            <HAWBDestinationEntity>BOM</HAWBDestinationEntity>
+            <ProductType>OND</ProductType>
+            <Services />
+            <PickupDate>2017-10-12T00:00:00</PickupDate>
+            <ReceivedAt>SHPR</ReceivedAt>
+            <Pieces>1</Pieces>
+            <HAWBWeight>0.1</HAWBWeight>
+            <ChargeableWeight>0.1</ChargeableWeight>
+            <HAWBWeightUnit>KG</HAWBWeightUnit>
+            <CMT>P</CMT>
+            <CollectAmount>0</CollectAmount>
+            <CollectCurrencyCode>INR</CollectCurrencyCode>
+            <CustomsAmount>0</CustomsAmount>
+            <CustomsCurrencyCode>INR</CustomsCurrencyCode>
+            <CommodityCountryCode>IN</CommodityCountryCode>
+            <CommodityDescription>DOCUMENTS</CommodityDescription>
+            <Services />
+            <Remarks />
+            <BillingAccountNumber>115024</BillingAccountNumber>
+            <ShipperNumber>115024</ShipperNumber>
+            <ShipperReference>DPB8859987</ShipperReference>
+            <ShipperName>ICICI BANK LTD ( Debit Pin )</ShipperName>
+            <SentBy>Vikram Sashittal</SentBy>
+            <ShipperAddress>Andheri ( East )</ShipperAddress>
+            <ShipperAddress2 />
+            <ShipperTelephone>912261375500</ShipperTelephone>
+            <ShipperCity>Mumbai</ShipperCity>
+            <ShipperStateCode>MH</ShipperStateCode>
+            <ShipperZipCode>400072</ShipperZipCode>
+            <ShipperCountryCode>IN</ShipperCountryCode>
+            <ConsigneeNumber />
+            <ConsigneeReference />
+            <ConsigneeName>SHANTI NADKAR</ConsigneeName>
+            <AttentionOf>SHANTI NADKAR</AttentionOf>
+            <ConsigneeAddress>103 SHREE RAMWADI J P,ROAD,OPP VADIYA HIGH,SCHOOL ANDHERI,(W), *</ConsigneeAddress>
+            <ConsigneeAddress2 />
+            <ConsigneeTelephone>919769482473</ConsigneeTelephone>
+            <ConsigneeCity>Mumbai</ConsigneeCity>
+            <ConsigneeStateCode>MH</ConsigneeStateCode>
+            <ConsigneeZipCode>400058</ConsigneeZipCode>
+            <ConsigneeCountryCode>IN</ConsigneeCountryCode>
+            <ThirdPartyNumber />
+            <ThirdPartyReference />
+            <ThirdPartyName />
+            <ThirdPartyContact />
+            <ThirdPartyAddress />
+            <ThirdPartyAddress2 />
+            <ThirdPartyTelephone />
+            <ThirdPartyCity />
+            <ThirdPartyStateCode />
+            <ThirdPartyZipCode />
+            <ThirdPartyCountryCode />
+            <Longitude>0</Longitude>
+            <Latitude>0</Latitude>
+            <Building />
+            <Properties>0</Properties>
+            <SchedDelivery>&lt;Appointment/&gt;</SchedDelivery>
+            <MoneyCollection>
+            </MoneyCollection>
+            <Comments />
+            <Sequence>0</Sequence>
+            <SourceID>10</SourceID>
+            <HAWBRemarks />
+            <CashValue>0</CashValue>
+            <CashCurrencyCode>INR</CashCurrencyCode>
+            <InsuranceValue>0</InsuranceValue>
+            <InsuranceCurrencyCode />
+            <CODValue>0</CODValue>
+            <CODCurrencyCode>INR</CODCurrencyCode>
+            <PaymentOption />
+            <SRNNumber />
+            <ShipperReference2 />
+            <ShipperFax />
+            <ShipperEmail>vikram.sashittal@icicibank.com</ShipperEmail>
+            <ConsigneeReference2 />
+            <ConsigneeFax />
+            <ConsigneeEmail />
+            <ThirdPartyEntity />
+            <ThirdPartyReference2 />
+            <HAWBProductGroup>DOM</HAWBProductGroup>
+            <OriginLocationCode>ADH</OriginLocationCode>
+            <DestinationLocationCode>ANW</DestinationLocationCode>
+            <HAWBRef1 />
+            <HAWBRef2 />
+            <HAWBRef3 />
+            <HAWBAlertedBy>ANKITS</HAWBAlertedBy>
+            <HAWBAlertedDate>2017-10-12T23:55:00</HAWBAlertedDate>
+            <CollectionReference />
+            <Cube>0</Cube>
+            <CubeUnit>m3</CubeUnit>
+        </HAWB>
+    </RunSheet>
+</InfoLinkDocument>
