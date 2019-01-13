@@ -29,7 +29,7 @@ public class Upload_file {
       
       driver.findElement(By.name("username")).sendKeys("sunil");
       
-      driver.findElement(By.name("password")).sendKeys("Victory@7777");
+      driver.findElement(By.name("password")).sendKeys("");
       
       driver.findElement(By.xpath(".//*[@id='m_login_signin_submit']")).click();
       
